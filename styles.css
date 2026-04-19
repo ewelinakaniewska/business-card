@@ -1,0 +1,39 @@
+body {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.italic {
+    font-style: italic;
+}
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #dccae6;
+    color: #2b2839;
+    border-bottom: 6px solid #83ad6c;
+    border-right: 4px solid #753696;
+    border-radius: 2px;
+   
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+.avatar {
+    border-radius: 2px;
+     box-shadow: 1px -1px 2px #c993e6
+}
+.avatar:hover {
+    scale: 1.1;
+    rotate: 10deg;
+    transition: all .5s;
+}
