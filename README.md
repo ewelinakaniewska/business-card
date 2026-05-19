@@ -2,6 +2,8 @@
 
 Prosty i responsywny projekt wizytówki internetowej stworzony w czystym kodzie **HTML5** oraz **CSS3**. Projekt przedstawia profil fikcyjnego programisty i został zbudowany z wykorzystaniem nowoczesnego środowiska deweloperskiego **Vite**.
 
+https://resonant-raindrop-93a4a2.netlify.app/
+
 Projekt realizuje klasyczne zadanie zorientowane na naukę układów pudełkowych (Box Model) oraz nowoczesnego pozycjonowania elementów w CSS.
 
 ---
